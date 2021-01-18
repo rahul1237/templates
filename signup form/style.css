@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d0e8f2;
+}
+
+#container{
+    margin: 30px ;
+    padding: 100px;
+}
+
+#main_heading{
+    color: red;
+    margin: 6px;
+    text-align: center;
+}
+
+#main_form p{
+    text-align: center;
+}
+
+#main_form{
+    /* margin-left: 15em; */
+    position: relative;
+    left: 15em ;
+    border: 5px grey solid;
+    width: 50em;
+    height: 17em;
+}
+
+#f_orm{
+    margin: 30px;
+    text-align: center;
+}
